@@ -1,0 +1,4 @@
+We want to load a preexisting sample dataset from the scikit-learn library, scikit-learn comes with a number of popular datasets for you to use, Often we do not want to go through the work of loading, transforming, and cleaning a real-world dataset
+before we can explore some machine learning algorithm or method. Luckily, scikit-learn comes with some common datasets we can quickly load. These datasets are often called “toy” datasets because they are far smaller and cleaner than a dataset we would
+see in the real world. Some popular sample datasets in scikit-learn are, load_digits : Contains 1,797 observations from images of handwritten digits. It is a good dataset for teaching image classification.
+and also To see more details on any of the datasets above, you can print the DESCR attribute.
